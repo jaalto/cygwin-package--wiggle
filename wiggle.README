@@ -1,0 +1,70 @@
+wiggle
+------------------------------------------
+
+A program for applying patches with conflicting changes
+
+A program for applying patches that patch(1) cannot apply due to
+conflicting changes in the original. Wiggle will always apply all
+changes in the patch to the original. If it cannot find a way to
+cleanly apply a patch, it inserts it in the original in a manner
+similar to merge(1), and report an unresolvable conflict.
+
+Runtime requirements:
+  cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://neil.brown.name/blog
+  http://packages.debian.org/wiggle
+
+Canonical download:
+  http://neil.brown.name/wiggle/
+
+Version control repository:
+  git://neil.brown.name/wiggle
+  http://neil.brown.name/git?p=wiggle;a=summary
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer:  Neil Brown <neilb@suse.de>
+  Bugs:  Neil Brown <neilb@suse.de>
+
+License:
+  GPL
+
+Language:
+  C
+
+------------------------------------------
+
+Build instructions:
+  unpack wiggle-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./wiggle*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See Cygwin package archive
+
+------------------------------------------
+
+Port Notes:
+
+----- version 0.8-1 -----
+- New upstream release 2010-06-23 Jari Aalto
+
+----- version 0.6-1 -----
+- Initial release 2008-02-22 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008-2010 Jari Aalto; Licensed under GPL v2 or later

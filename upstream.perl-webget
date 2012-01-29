@@ -1,0 +1,2 @@
+tag1: wiggle
+  http://packages.debian.org/unstable/wiggle pregexp:orig.tar.gz file:wiggle_0.6.orig.tar.gz new: x:

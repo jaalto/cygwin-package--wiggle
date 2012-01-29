@@ -1,0 +1,8 @@
+sdesc: "A program for applying patches with conflicting changes"
+ldesc: "A program for applying patches that patch(1) cannot apply due to
+conflicting changes in the original. Wiggle will always apply all
+changes in the patch to the original. If it cannot find a way to
+cleanly apply a patch, it inserts it in the original in a manner
+similar to merge(1), and report an unresolvable conflict."
+category: Utils
+requires: cygwin
