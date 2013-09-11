@@ -11,9 +11,11 @@ similar to merge(1), and report an unresolvable conflict.
 
 Runtime requirements:
   cygwin
+  libncursesw10
 
 Build requirements:
   cygwin
+  libncursesw-devel
 
 Canonical homepage:
   http://neil.brown.name/blog
@@ -60,11 +62,15 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 0.8-2 -----
+- New upstream release 2013-09-11 user
+- Depends libncursesw
+
 ----- version 0.8-1 -----
 - New upstream release 2010-06-23 Jari Aalto
 
 ----- version 0.6-1 -----
 - Initial release 2008-02-22 Jari Aalto
 
-Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008-2010 Jari Aalto; Licensed under GPL v2 or later
+Cygwin port maintained by: user <jari.aalto@cante.net>
+Copyright (C) 2008-2013 Jari Aalto; Licensed under GPL v2 or later

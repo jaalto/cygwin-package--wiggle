@@ -5,4 +5,4 @@ changes in the patch to the original. If it cannot find a way to
 cleanly apply a patch, it inserts it in the original in a manner
 similar to merge(1), and report an unresolvable conflict."
 category: Utils
-requires: cygwin
+requires: cygwin libncursesw10
