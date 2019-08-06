@@ -62,6 +62,24 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 1.0+20190803+gitd55ce20-1 -----
+- New upstream release 2019-08-06 Jari Aalto
+
+----- version 1.0+20190803+gitd55ce20-1 -----
+- New upstream release 2019-08-06 Jari Aalto
+
+----- version 1.0+20190803+gitd55ce20-1 -----
+- New upstream release 2019-08-06 Jari Aalto
+
+----- version 1.0+20190803+gitd55ce20-1 -----
+- New upstream release 2019-08-06 Jari Aalto
+
+----- version 1.0+20190803+gitd55ce20-1 -----
+- New upstream release 2019-08-06 Jari Aalto
+
+----- version 1.0+20190803+gitd55ce20-1 -----
+- New upstream release 2019-08-06 Jari Aalto
+
 ----- version 0.8-2 -----
 - New upstream release 2013-09-11 user
 - Depends libncursesw
@@ -72,5 +90,5 @@ Port Notes:
 ----- version 0.6-1 -----
 - Initial release 2008-02-22 Jari Aalto
 
-Cygwin port maintained by: user <jari.aalto@cante.net>
-Copyright (C) 2008-2013 Jari Aalto; Licensed under GPL v2 or later
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008-2019 Jari Aalto; Licensed under GPL v2 or later
