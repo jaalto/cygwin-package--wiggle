@@ -6,3 +6,4 @@ cleanly apply a patch, it inserts it in the original in a manner
 similar to merge(1), and report an unresolvable conflict."
 category: Utils
 requires: libncursesw10
+license: GPL-2-or-later
